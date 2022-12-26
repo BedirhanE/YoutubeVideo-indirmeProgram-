@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32901.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "YoutubeVideoİndirmeProgramı", "YoutubeVideoİndirmeProgramı\YoutubeVideoİndirmeProgramı.pyproj", "{8D5EC445-86F5-4E2A-8343-0E4302E723CD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8D5EC445-86F5-4E2A-8343-0E4302E723CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D5EC445-86F5-4E2A-8343-0E4302E723CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6A1F3393-5033-44DE-B1E0-2754BEC0EB9F}
+	EndGlobalSection
+EndGlobal
